@@ -51,7 +51,6 @@ pip install django
    
 
 ---
-
 ## File Structure
 Here’s the structure of the project:
 TaskManager/
@@ -59,6 +58,5 @@ TaskManager/
 ├── venv/                  # Virtual environment
 ├── .gitignore             # Git ignore file
 └── README.md              # Project setup instructions
-
 ---
 ```
