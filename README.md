@@ -1,3 +1,4 @@
+'''
 TaskManager
 Overview
 TaskManager is a Python project designed to manage and track tasks efficiently. This application is set up with Django, leveraging its capabilities to build a robust and scalable task management system.
@@ -47,6 +48,14 @@ Ensure the following entries are in .gitignore to keep your repository clean:
 
 plaintext
 Copy code
+venv/
+*.pyc
+__pycache__/
+db.sqlite3
+
+Contribution
+Feel free to fork the repository, create a feature branch, and submit pull requests. Contributions are welcome!
+'''
 venv/
 *.pyc
 __pycache__/
