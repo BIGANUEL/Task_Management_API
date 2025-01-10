@@ -191,4 +191,8 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'biganuel6792@gmail.com'
+<<<<<<< HEAD
 EMAIL_HOST_PASSWORD = 'ldcpanzcywyudstc'  # or your regular password if 2FA is not enabled
+=======
+EMAIL_HOST_PASSWORD = 'sfyuexavldrmpiqo'  # or your regular password if 2FA is not enabled
+>>>>>>> 2db3305259745702869fe4538706d7b19929cc80
